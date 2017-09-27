@@ -16,6 +16,8 @@
 * build a terrarium in which different species of bug live together!
 * you'd have red worms, mealworms, and possibly snails too
 * you'd also grow plants there
+* would the plants help solve the excess moisture problem?
+* would you need different stages? perhaps a gravel layer to keep some bugs dry?
 
 ## other
 * [jewelry organizer](https://www.amazon.com/Organizer-Container-Removable-Dividers-Transparent/dp/B01NBLOXEC/ref=pd_sim_201_3?_encoding=UTF8&pd_rd_i=B01NBLOXEC&pd_rd_r=CZQJ6PCX6A5F0XHRT9B1&pd_rd_w=aFzRF&pd_rd_wg=NtFqY&psc=1&refRID=CZQJ6PCX6A5F0XHRT9B1) - could be a great way to transport bugs to meetings
