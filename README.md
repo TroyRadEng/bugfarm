@@ -15,7 +15,7 @@
 ## ecosystem terrarium
 * build a terrarium in which different species of bug live together!
 * you'd have red worms, mealworms, and possibly snails too
-* you'd also grow plants there
+* you'd also grow plants there. perhaps low-light plants
 * would the plants help solve the excess moisture problem?
 * would you need different stages? perhaps a gravel layer to keep some bugs dry?
 
