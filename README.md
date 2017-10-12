@@ -12,6 +12,10 @@
 * can compost some food scraps
 * escargot
 
+## pillbug farm
+* Basically raise them like snails.  They can eat a wide variety of food scraps
+* Buy them [here](http://shop.bugsincyberspace.com/Sow-Bugs-Gray-Porcellio-15-ct-bic700.htm)
+
 ## ecosystem terrarium
 * build a terrarium in which different species of bug live together!
 * you'd have red worms, mealworms, and possibly snails too
