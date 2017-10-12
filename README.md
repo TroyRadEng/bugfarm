@@ -19,6 +19,7 @@
 ## carpet beetle farm
 * carpet beetle larvae [eat clothing](http://greatgrayowlpc.com.websitematic.ca/files/resized/18917/cropped/870;489;894c4e9b73155745bb4b69b143568dc812feee79.jpg). This could potentially be used for clothing composting.
 * the carpet beetles present a potential infestation risk for the home. So they should be kept in a secure container.  Consider putting a ring of [cedar or neem oil](https://www.homeremedyhacks.com/11-easy-ways-get-rid-of-carpet-beetles/) on the lid.
+* [Boil the refuse](https://www.wikihow.com/Get-Rid-of-Carpet-Beetles) to kill eggs and larvae before composting it.
 
 
 ## ecosystem terrarium
