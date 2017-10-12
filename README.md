@@ -16,6 +16,11 @@
 * Basically raise them like snails.  They can eat a wide variety of food scraps
 * Buy them [here](http://shop.bugsincyberspace.com/Sow-Bugs-Gray-Porcellio-15-ct-bic700.htm)
 
+## carpet beetle farm
+* carpet beetle larvae [eat clothing](http://greatgrayowlpc.com.websitematic.ca/files/resized/18917/cropped/870;489;894c4e9b73155745bb4b69b143568dc812feee79.jpg). This could potentially be used for clothing composting.
+
+* the carpet beetles present a potential infestation risk for the home. So they should be kept in a secure container.  Consider putting a ring of [cedar or neem oil](https://www.homeremedyhacks.com/11-easy-ways-get-rid-of-carpet-beetles/) on the lid.
+
 ## ecosystem terrarium
 * build a terrarium in which different species of bug live together!
 * you'd have red worms, mealworms, and possibly snails too
