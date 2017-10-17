@@ -15,6 +15,7 @@
 ## pillbug farm
 * Basically raise them like snails.  They can eat a wide variety of food scraps
 * Buy them [here](http://shop.bugsincyberspace.com/Sow-Bugs-Gray-Porcellio-15-ct-bic700.htm)
+* [article](https://www.naturalnews.com/049190_rollie_pollies_heavy_metals_soil_remediation.html) about their role in bioremediation and composting
 
 ## carpet beetle farm
 * carpet beetle larvae [eat clothing](http://greatgrayowlpc.com.websitematic.ca/files/resized/18917/cropped/870;489;894c4e9b73155745bb4b69b143568dc812feee79.jpg). This could potentially be used for clothing composting.
