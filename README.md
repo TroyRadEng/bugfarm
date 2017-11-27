@@ -1,5 +1,7 @@
 # bugfarm
 
+you should continue developing this with pictures and other resources until eventually it can be turned into a Bug Zine and maybe a Bug Class.
+
 ## mealworm farm
 * stored in a converted worm bin with progressively finer mesh hot-glued into each lower bin, allowing self-sorting of frass
 * get excess grains for mealworms from either honest weight or sav-a-lot
